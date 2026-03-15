@@ -6,8 +6,8 @@ The dashboard provides insights into sales trends, product performance, and regi
 
 ## Tools Used
 - Power BI
-- Excel / CSV dataset
-- Data Visualization
+- Excel ( CSV ) dataset
+- Data Visualization (proof through screenshot/snip)
 
 ## Key Insights
 - Sales performance across regions
@@ -17,7 +17,7 @@ The dashboard provides insights into sales trends, product performance, and regi
 - Monthly sales trends
 
 ## Dashboard Preview
-
+-attached in the folder with the name - "Dashboard.png"
 ## Files
 - retail_sales_dashboard.pbix
 - retail_sales_dataset.csv
